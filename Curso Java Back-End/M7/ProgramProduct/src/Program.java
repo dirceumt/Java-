@@ -1,6 +1,7 @@
 import entidades.FunctionProduct;
-import java.util.Scanner;
+
 import java.util.Locale;
+import java.util.Scanner;
 public class Program {
 	public static void main (String[]args){
 		Locale.setDefault(Locale.US);
@@ -10,16 +11,15 @@ public class Program {
 				 produto.voltarMenu();
 			String entrada = scan.next();
 
-			
 			switch (entrada.toUpperCase()){
 				case "C":
-					produto.cadastroProduto();
+					produto.novoProduto();
 					break;
 				case "R":
 					System.out.println("VEM O MÉTODO REMOVER!");
 					break;
 				case "E":
-					System.out.println("VEM O MÉTODO CONSULTAR!");
+					produto.consultarEstoque();
 					break;
 				case "S":
 					System.out.println("PROGRAMA ENCERRADO!");
@@ -33,4 +33,7 @@ public class Program {
 
 		}
 	}
-}
+
+
+	}
+
