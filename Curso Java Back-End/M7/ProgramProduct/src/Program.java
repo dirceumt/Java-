@@ -1,5 +1,5 @@
 import entidades.FunctionProduct;
-
+//import entidades.Produtos -> não necessita importar pois ja ta declarada na classe FunctionProduct;
 import java.util.Locale;
 import java.util.Scanner;
 public class Program {

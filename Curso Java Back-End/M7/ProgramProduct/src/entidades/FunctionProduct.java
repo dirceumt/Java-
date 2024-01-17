@@ -3,6 +3,7 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
 import java.util.Locale;
+import entidades.Produtos;
 public class FunctionProduct {
 	public List<Produtos> ListaProdutos;
 
@@ -27,16 +28,14 @@ public class FunctionProduct {
 		else{
 			novoProduto();
 		}
-
 	}
-
 	public void consultarEstoque(){
 		System.out.println("""
 =============================================
 |             CONSULTA DE ESTOQUE            |""");
 		System.out.println("""
 ================================================================
-for (Produto produto : ListaProdutos){
+for (Produtos produto : ListaProdutos){
 |System.out.println("NOME: " + produto.getNome());             |
 |System.out.println("PREÇO: " + produto.getPreco()");          |
 |System.out.println("QUANTIDADE: " + produto.getQuantidade()");|
