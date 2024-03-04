@@ -1,8 +1,9 @@
 package entidades;
-public class FunctionArea {
-	public double calcularArea(double a, double b, double c){//encapsula no metodo calcularArea que vai ser chamado na outra classe
-		double p = (a+b+c)/2;
-		return Math.sqrt(p*(p-a)*(p-b)*(p-c));
+public class FunctionArea{
+	public double calcularArea(double a1, double a2, double a3){
+		double p = (a1+a2+a3)/2;
+		double area = Math.sqrt(p*(p-a1)*(p-a2)*(p-a3));
+		return area;
 	}
 
 }
