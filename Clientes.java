@@ -12,7 +12,7 @@ public class Clientes {
         System.out.println(cliente.nome);
         System.out.println(cliente.codigo);
         System.out.println(cliente.endereco);
-        system.out.println(cliente.nome)
+        system.out.println(cliente.nome);
 
     }
 }
