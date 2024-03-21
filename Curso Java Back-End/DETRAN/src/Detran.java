@@ -6,7 +6,7 @@ public class Detran {
 		Scanner scan = new Scanner(System.in);
 		Locale.setDefault(Locale.US);
 		Carro carro = new Carro();
-		do {
+
 			System.out.println("INFORME OS DADOS DO CARRO:");
 			System.out.println("INFORME A FABRICANTE:");
 			carro.marca = scan.nextLine();
@@ -20,7 +20,7 @@ public class Detran {
 			System.out.println("DADOS ARMAZENADOS COM SUCESSO!");
 			System.out.printf("MARCA: %s\n MODELO: %s\n ANO: %d\n COR: %s \n",
 					carro.marca, carro.modelo, carro.anoFabricacao, carro.cor);
-		}while(true);
+		}
 
 	}
-}
+
