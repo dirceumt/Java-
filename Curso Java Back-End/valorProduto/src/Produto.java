@@ -1,7 +1,7 @@
 public class Produto {
 	static double custoEmbalagem = 10.00;
 
-	double precoCusto;
+	/*double precoCusto;
 	double margemLucro;
 	double precoVenda;
 	double valorLiquido;
@@ -14,5 +14,7 @@ public class Produto {
 	double lucroLiquido(){
 		valorLiquido = precoVenda - precoCusto;
 		return valorLiquido;
+	 */
+
 	}
 }
