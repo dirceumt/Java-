@@ -1,5 +1,5 @@
 public class Matematic {
-	static double precoEmbalagem = 10;
+	static final double precoEmbalagem = 10;
 
 	public static double valorVenda(double valorProduto, double margemLucro) {
 		return valorProduto * ((margemLucro / 100) + 1);
