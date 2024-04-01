@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Curso Java Back-End.iml" filepath="$PROJECT_DIR$/.idea/Curso Java Back-End.iml" />
+      <module fileurl="file://$PROJECT_DIR$/M7/DecimalToBinary/DecimalToBinary.iml" filepath="$PROJECT_DIR$/M7/DecimalToBinary/DecimalToBinary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/M7/Entrada_Dados/Entrada_Dados.iml" filepath="$PROJECT_DIR$/M7/Entrada_Dados/Entrada_Dados.iml" />
+      <module fileurl="file://$PROJECT_DIR$/M7/Exercicio1/Exercicio1.iml" filepath="$PROJECT_DIR$/M7/Exercicio1/Exercicio1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/M7/Exercicio_M7/Exercicio_M7.iml" filepath="$PROJECT_DIR$/M7/Exercicio_M7/Exercicio_M7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/M7/ProdutosEstoque/ProdutosEstoque.iml" filepath="$PROJECT_DIR$/M7/ProdutosEstoque/ProdutosEstoque.iml" />
+      <module fileurl="file://$PROJECT_DIR$/M7/ProgramProduct/ProgramProduct.iml" filepath="$PROJECT_DIR$/M7/ProgramProduct/ProgramProduct.iml" />
+      <module fileurl="file://$PROJECT_DIR$/M7/Programa/Programa.iml" filepath="$PROJECT_DIR$/M7/Programa/Programa.iml" />
+      <module fileurl="file://$PROJECT_DIR$/M7/Triangle/Triangle.iml" filepath="$PROJECT_DIR$/M7/Triangle/Triangle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/M7/ifelse/ifelse.iml" filepath="$PROJECT_DIR$/M7/ifelse/ifelse.iml" />
+      <module fileurl="file://$PROJECT_DIR$/M7/programa01/programa01.iml" filepath="$PROJECT_DIR$/M7/programa01/programa01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/M7/teste_processamento/teste_processamento.iml" filepath="$PROJECT_DIR$/M7/teste_processamento/teste_processamento.iml" />
+    </modules>
+  </component>
+</project>
