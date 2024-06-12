@@ -4,7 +4,7 @@ public class Clientes {
     String endereco;
 
     public static void main(String[] args) {
-        Clientes cliente = new Clientes();
+        Clientes cliente = new Clientes(); // instancia a classe Clientes e atribui a var cliente;
         cliente.nome = "João";
         cliente.codigo = 0001;
         cliente.endereco = "Rua 01";
